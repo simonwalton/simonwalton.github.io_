@@ -8,7 +8,7 @@ layout: null
 @import "bootstrap_variables";
 
 // import bootstrap
-@import "../../../bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+@import "bootstrap/bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "base"
