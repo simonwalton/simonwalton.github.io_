@@ -6,9 +6,51 @@
 </description>
     <link>http://vizsec.org/</link>
     <atom:link href="http://vizsec.org/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 05 Apr 2016 17:40:57 +0100</pubDate>
-    <lastBuildDate>Tue, 05 Apr 2016 17:40:57 +0100</lastBuildDate>
+    <pubDate>Mon, 11 Apr 2016 13:34:46 +0100</pubDate>
+    <lastBuildDate>Mon, 11 Apr 2016 13:34:46 +0100</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>VizSec 2016 Call for Papers</title>
+        <description>&lt;p&gt;We are pleased to announce that the VizSec 2016 Call for Papers is officially open! You have until August 1, 2016 to complete your submission. &lt;/p&gt;
+
+&lt;p&gt;Technical research papers may present techniques, applications, theory, analysis, experiments, or evaluations. Suggested topics include, but are not limited to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Situation awareness and/or understanding&lt;/li&gt;
+  &lt;li&gt;Incident handling including triage, exploration, correlation, and response&lt;/li&gt;
+  &lt;li&gt;Computer forensics&lt;/li&gt;
+  &lt;li&gt;Recording and reporting results of investigations&lt;/li&gt;
+  &lt;li&gt;Assisting proactive security configuration and deployment&lt;/li&gt;
+  &lt;li&gt;Reverse engineering and malware analysis&lt;/li&gt;
+  &lt;li&gt;Vulnerability management&lt;/li&gt;
+  &lt;li&gt;Multiple data source analysis&lt;/li&gt;
+  &lt;li&gt;Analyzing information requirements for computer network defense&lt;/li&gt;
+  &lt;li&gt;Evaluation and/or user testing of VizSec systems&lt;/li&gt;
+  &lt;li&gt;Criteria for assessing the effectiveness of cyber security visualizations (whether from a security goal perspective or a human factors perspective)&lt;/li&gt;
+  &lt;li&gt;Modeling system and network behavior&lt;/li&gt;
+  &lt;li&gt;Modeling attacker and defender behavior&lt;/li&gt;
+  &lt;li&gt;Studying risk and impact of cyber attacks&lt;/li&gt;
+  &lt;li&gt;Predicting future attacks or targets&lt;/li&gt;
+  &lt;li&gt;Security metrics and education&lt;/li&gt;
+  &lt;li&gt;Software security&lt;/li&gt;
+  &lt;li&gt;Mobile application security&lt;/li&gt;
+  &lt;li&gt;Social networking privacy and security&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;br /&gt;
+New for 2016, we will be accepting short case study papers describing practical applications of security visualization – we welcome discussions on lessons learned, success stories, challenges, and insights gained from cyber security visualization in practice. We invite cyber security practitioners from industry, as well as the research community, to submit case studies. &lt;/p&gt;
+
+&lt;p&gt;We look forward to your submissions, and to hearing about your experiences at VizSec in October!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/call&quot;&gt;Full details about the Call for Papers&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Apr 2016 00:00:00 +0100</pubDate>
+        <link>http://vizsec.org/2016/04/11/CFP.html</link>
+        <guid isPermaLink="true">http://vizsec.org/2016/04/11/CFP.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>VizSec 2015 papers are in the IEEE DL</title>
